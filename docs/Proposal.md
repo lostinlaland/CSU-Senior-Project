@@ -1,4 +1,4 @@
-Senior Project Proposal (Replace with Project Name)
+Web Server Solution Proposal
 ===================================================
 
 **Student Name**: Laura Kirby   
