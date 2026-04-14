@@ -61,9 +61,8 @@ Schedule
     -   October 18 - Draft Test Plan & Project Update
     -   December 6 - Final Test Plan & Project Repository
 
-*   Spring 2040 - CSCI 499 (more detail will be added here once you are closer)
-    -   Weeks 1-4 - Implement test plan
-    -   Week 5 - Evaluate test results
-    -   Week 6-10 - Apply updates and bug fixes based on the results
-    -   Week 8 - Computer the first 4 chapters of the defense documentation.
-    -   ...
+*   Spring 2026 - CSCI 499
+    -   Jqnuary 17 - Project Proposal and Requirements Document
+    -   February 21 - Draft Test Plan
+    -   March 21 - Final Test Plan and Repository
+    -   April - Defense Presentation and Documentation
