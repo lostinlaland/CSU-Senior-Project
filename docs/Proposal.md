@@ -62,7 +62,7 @@ Schedule
     -   December 6 - Final Test Plan & Project Repository
 
 *   Spring 2026 - CSCI 499
-    -   Jqnuary 17 - Project Proposal and Requirements Document
+    -   January 17 - Project Proposal and Requirements Document
     -   February 21 - Draft Test Plan
     -   March 21 - Final Test Plan and Repository
     -   April - Defense Presentation and Documentation
